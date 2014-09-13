@@ -16,7 +16,7 @@ Zlib synchronous methods has been pushed to node 0.11.12. This library is based 
 
 You can find project documentation at https://github.com/joyent/node/blob/v0.11.12/doc/api/zlib.markdown
 
-**Pay attention that options argument object and zlib.params has not been backported.**
+**Pay attention that options argument object and zlib.params have not been backported.**
 
 
 
