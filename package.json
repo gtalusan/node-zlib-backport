@@ -1,6 +1,6 @@
 {
   "name": "node-zlib-backport",
-  "version": "0.11.12",
+  "version": "0.11.13",
   "description": "Zlib module with sync methods backport from 0.11.12 node sources.",
   "author": "Marco Minetti <marco.minetti@novetica.org>",
   "repository": {
