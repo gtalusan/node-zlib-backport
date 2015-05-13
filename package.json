@@ -15,5 +15,8 @@
     "sync",
     "backport",
     "node"
-  ]
+  ],
+  "engines": {
+    "node": ">=0.10 <0.11"
+  }
 }
